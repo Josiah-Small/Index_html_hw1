@@ -1,0 +1,30 @@
+p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    font-size: medium;
+}
+
+.Underline{
+    text-decoration: underline;
+}
+
+.Highlight{
+    background-color: orange;
+    color: black;
+}
+
+.Bold_Red{
+    font-weight: bold;
+    color: red;
+}
+
+.Bold_Red_2{
+    font-weight: bold;
+    color: red;
+}
+
+.Underline_2{
+    text-decoration: underline;
+}
